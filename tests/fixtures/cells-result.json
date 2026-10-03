@@ -1,0 +1,97 @@
+{
+  "provenance": "Actual whisper.cpp small.en-q5_1 transcript and Ollama qwen3:4b notes with an evidence review; generated on this laptop on 2026-10-02 from cells.wav (Windows speech synthesis). Frozen only for repeatable editing/export browser tests, never used for production AI responses.",
+  "notesMarkdown": "## Summary\n\nLecture covers fundamental cell biology concepts including the cell as the basic structural and functional unit, cell membrane functions, diffusion, osmosis, and active transport with energy requirements.\n\n## Cell Definition and Structure\n\nA cell is the basic structural and functional unit of life. The cell membrane controls which substances enter and leave the cell.\n\n## Diffusion Process\n\nDiffusion is the movement of particles from higher concentration to lower concentration. For example oxygen moves into a cell by diffusion when oxygen concentration is higher outside the cell.\n\n## Osmosis Definition\n\nOsmosis is the movement of water through a selectively permeable membrane.\n\n## Active Transport\n\nActive transport requires energy to move substances against a concentration gradient.",
+  "duration": 39.456961,
+  "notes": {
+    "summary": "Lecture covers fundamental cell biology concepts including the cell as the basic structural and functional unit, cell membrane functions, diffusion, osmosis, and active transport with energy requirements.",
+    "sections": [
+      {
+        "heading": "Cell Definition and Structure",
+        "body": "A cell is the basic structural and functional unit of life. The cell membrane controls which substances enter and leave the cell.",
+        "sourceSegmentIds": [
+          "c0s1",
+          "c0s2"
+        ]
+      },
+      {
+        "heading": "Diffusion Process",
+        "body": "Diffusion is the movement of particles from higher concentration to lower concentration. For example oxygen moves into a cell by diffusion when oxygen concentration is higher outside the cell.",
+        "sourceSegmentIds": [
+          "c0s3",
+          "c0s4",
+          "c0s5"
+        ]
+      },
+      {
+        "heading": "Osmosis Definition",
+        "body": "Osmosis is the movement of water through a selectively permeable membrane.",
+        "sourceSegmentIds": [
+          "c0s6"
+        ]
+      },
+      {
+        "heading": "Active Transport",
+        "body": "Active transport requires energy to move substances against a concentration gradient.",
+        "sourceSegmentIds": [
+          "c0s7"
+        ]
+      }
+    ]
+  },
+  "segments": [
+    {
+      "id": "c0s0",
+      "startSeconds": 0,
+      "endSeconds": 2.56,
+      "text": "Today we will discuss Cells."
+    },
+    {
+      "id": "c0s1",
+      "startSeconds": 2.56,
+      "endSeconds": 6.76,
+      "text": "A cell is the basic structural and functional unit of life."
+    },
+    {
+      "id": "c0s2",
+      "startSeconds": 6.76,
+      "endSeconds": 11.78,
+      "text": "The cell membrane controls which substances enter and leave the cell."
+    },
+    {
+      "id": "c0s3",
+      "startSeconds": 11.78,
+      "endSeconds": 17.08,
+      "text": "Diffusion is the movement of particles from higher concentration to lower concentration."
+    },
+    {
+      "id": "c0s4",
+      "startSeconds": 17.08,
+      "endSeconds": 22.48,
+      "text": "For example oxygen moves into a cell by diffusion when oxygen concentration is higher outside"
+    },
+    {
+      "id": "c0s5",
+      "startSeconds": 22.48,
+      "endSeconds": 23.92,
+      "text": "the cell."
+    },
+    {
+      "id": "c0s6",
+      "startSeconds": 23.92,
+      "endSeconds": 29.04,
+      "text": "Osmosis is the movement of water through a selectively permeable membrane."
+    },
+    {
+      "id": "c0s7",
+      "startSeconds": 29.04,
+      "endSeconds": 34.68,
+      "text": "Active transport requires energy to move substances against a concentration gradient."
+    },
+    {
+      "id": "c0s8",
+      "startSeconds": 34.68,
+      "endSeconds": 38.64,
+      "text": "Remember that active transport requires energy while diffusion does not."
+    }
+  ]
+}

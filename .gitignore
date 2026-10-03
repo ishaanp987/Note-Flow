@@ -1,0 +1,11 @@
+node_modules/
+dist/
+data/
+models/
+tools/
+work/
+outputs/
+.env*
+*.pem
+test-results/
+playwright-report/
